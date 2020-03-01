@@ -1,0 +1,15 @@
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\bin\Debug\XlsToCsv.exe.config
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\bin\Debug\XlsToCsv.exe
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\bin\Debug\XlsToCsv.pdb
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\XlsToCsv.csprojAssemblyReference.cache
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\MainWindow.g.cs
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\App.g.cs
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\XlsToCsv_MarkupCompile.cache
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\XlsToCsv_MarkupCompile.lref
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\MainWindow.baml
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\XlsToCsv.g.resources
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\XlsToCsv.Properties.Resources.resources
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\XlsToCsv.csproj.GenerateResource.cache
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\XlsToCsv.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\XlsToCsv.exe
+C:\Users\Jerome\Desktop\Programmieren\TestProgramme\XlsToCsvGUI\XlsToCsv\obj\Debug\XlsToCsv.pdb
