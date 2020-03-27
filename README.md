@@ -6,5 +6,3 @@ Features:
 - In der Ordnerstruktur darf kein '.' vorhanden sein
 - Die CSV wird in das Verzeichnis abgelegt, in der sich die XLSX-Datei befindet
 
-In Arbeit:
-- Kompatibilität für XLS Dateien
