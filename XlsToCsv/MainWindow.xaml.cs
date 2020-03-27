@@ -53,7 +53,7 @@ namespace XlsToCsv
         {
             //Öffne Datei
             OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Filter = "New Excel Files (*.xlxs)|*.xlsx";//|Old Excel Files (*.xls)|*.xls
+            ofd.Filter = "New Excel Files (*.xlxs)|*.xlsx| Old Excel Files (*.xls)|*.xls";
             if (ofd.ShowDialog()==true)
             {
                 tbxPfad.Text = ofd.FileName;
